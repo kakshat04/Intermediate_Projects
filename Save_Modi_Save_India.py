@@ -6,16 +6,7 @@ import os
 import random
 
 # Import different keys to use in the game
-from pygame.locals import (
-    RLEACCEL,
-    K_UP,
-    K_DOWN,
-    K_LEFT,
-    K_RIGHT,
-    K_ESCAPE,
-    KEYDOWN,
-    QUIT
-)
+from pygame.locals import *
 
 WIDTH = 1000
 HEIGHT = 600
